@@ -1,0 +1,7 @@
+{
+  "name": "家味小厨 (Family NomNom)",
+  "description": "A cute, WeChat-style family menu planner where you can manage dishes and decide what to eat today, featuring AI-powered dish descriptions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
