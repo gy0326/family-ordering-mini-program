@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { Dish, DishCategory } from './types';
 import { DishCard } from './components/DishCard';
 import { AddDishModal } from './components/AddDishModal';
-import { PlusIcon,  ChefHatIcon, PaperAirplaneIcon } from './components/Icons';
+import { PlusIcon, HomeIcon, ChefHatIcon, PaperAirplaneIcon } from './components/Icons';
 import { Toast } from './components/Toast';
 
 // Initial Mock Data
